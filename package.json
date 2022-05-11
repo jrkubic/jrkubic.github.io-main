@@ -8,5 +8,8 @@
     },
     "scripts": {
         "test": "jshint script.js"
+    },
+    "dependencies": {
+        "bootstrap": "^5.1.3"
     }
 }
