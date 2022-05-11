@@ -6,9 +6,6 @@ cache: npm
 branches:
   only:
     - src # build from src branch
-script:
-  - chmod +x ./build.sh
-  - ./build.sh
 deploy:
   provider: pages
   skip-cleanup: true
