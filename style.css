@@ -2,6 +2,10 @@
  * Typography & Text styles
  */
 
+img {
+  max-width: 75%;
+  max-height: 75%;
+}
 /* html is set to 62.5% so that all the REM measurements are based on 10px sizing. So basically 1.5rem = 15px */
 html {
     font-size: 62.5%;
