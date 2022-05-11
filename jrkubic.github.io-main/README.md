@@ -1,3 +1,0 @@
-# jrkubic.github.io
-
-README
